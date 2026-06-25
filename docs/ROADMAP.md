@@ -6,7 +6,7 @@
 
 ---
 
-## Fase activa: FASE 0
+## Fase activa: FASE 2
 
 Actualizar esta línea al avanzar de fase. Claude Code siempre lee aquí primero.
 
